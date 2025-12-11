@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DS Developer - Services Professionnels</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 0; }
+    header { background: #111; color: white; padding: 20px; text-align: center; }
+    h1 { margin: 0; }
+    section { padding: 20px; max-width: 900px; margin: auto; }
+    .service { background: white; padding: 20px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    .price { color: green; font-weight: bold; }
+    .cta { text-align: center; margin-top: 40px; }
+    .btn-whatsapp { display: inline-block; background: #25D366; color: white; padding: 15px 25px; border-radius: 8px; text-decoration: none; font-size: 18px; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>DS DEVELOPER</h1>
+    <p>Copywriting • Développement • Marketing digital</p>
+  </header>  <section>
+    <h2>Qui suis-je ?</h2>
+    <p>Je suis un jeune développeur et copywriter passionné. Je crée du contenu professionnel, des textes persuasifs et des solutions digitales qui aident les entreprises et les particuliers à attirer plus de clients.</p>
+  </section>  <section>
+    <h2>Services Professionnels</h2><div class="service">
+  <h3>1. Rédaction Copywriting</h3>
+  <p>Textes professionnels, descriptions, scripts vidéos, contenu persuasif pour augmenter vos ventes.</p>
+  <p class="price">Prix débutant : à partir de 3 000 FCFA</p>
+</div>
+
+<div class="service">
+  <h3>2. Création de Sites Web</h3>
+  <p>Sites simples, portfolio, landing pages propres et modernes.</p>
+  <p class="price">Prix débutant : à partir de 5 000 FCFA</p>
+</div>
+
+<div class="service">
+  <h3>3. Création d'Affiches & Logos</h3>
+  <p>Designs professionnels, logos simples, affiches pour réseaux sociaux.</p>
+  <p class="price">Prix débutant : à partir de 2 000 FCFA</p>
+</div>
+
+<div class="service">
+  <h3>4. Montage Vidéo</h3>
+  <p>Montages simples, vidéos pour TikTok, YouTube, Facebook.</p>
+  <p class="price">Prix débutant : à partir de 4 000 FCFA</p>
+</div>
+
+<div class="service">
+  <h3>5. Gestion de Réseaux Sociaux</h3>
+  <p>Création de contenu, calendrier de publication, optimisation de vos pages.</p>
+  <p class="price">Prix débutant : à partir de 3 500 FCFA</p>
+</div>
+
+<div class="service">
+  <h3>6. Mini-Formation Copywriting</h3>
+  <p>Introduction au copywriting pour débutants + modèles de texte.</p>
+  <p class="price">Prix débutant : à partir de 2 500 FCFA</p>
+</div>
+
+  </section>  <section>
+    <h2>Pourquoi travailler avec moi ?</h2>
+    <ul>
+      <li>Travail propre, rapide et professionnel</li>
+      <li>Prix accessibles pour débutants</li>
+      <li>Service disponible 24h/24</li>
+      <li>Communication simple et directe</li>
+    </ul>
+  </section>  <section class="cta">
+    <h2>Contactez-moi maintenant</h2>
+    <p>Appuyez sur le bouton ci-dessous pour discuter directement avec moi sur WhatsApp :</p>
+    <a class="btn-whatsapp" href="https://whatsapp.com/channel/0029Vb6pu2i7j6g1AyA9U22w" target="_blank">Me Contacter sur WhatsApp</a>
+  </section></body>
+</html>
